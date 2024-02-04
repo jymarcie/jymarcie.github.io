@@ -4,8 +4,7 @@ permalink: /cvpub/
 author_profile: true
 ---
 
-[!NOTE]
-I used to publish under name of **Mun, Jae Yeon** during my master's at Seoul National University (SNU). I now publish under the name of **Mun, Marcie** or **Mun, M**. 
+I used to publish under name of **Mun, Jae Yeon** during my master's at Seoul National University (SNU). I now publish under the name of **Mun, Marcie** or **Mun, M**. You can also find all my publications with my <a href="https://orcid.org/0000-0002-3706-9955"> ORCID </a>. {: .notice--info}
 
 <h3><u>
 	Quicklinks
