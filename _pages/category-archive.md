@@ -1,6 +1,6 @@
 ---
-title: "Posts by Category"
+title: "CV/Publications"
 layout: categories
-permalink: /categories/
+permalink: /cvpub/
 author_profile: true
 ---
