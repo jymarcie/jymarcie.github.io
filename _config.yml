@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Marcie Mun"
-  avatar : "/assets/images/IMG-1801.jpg"
+  avatar : "/assets/images/IMG_1801.jpg"
   bio    : "PhD student at the Research School of Astronomy & Astrophysics at the Australian National University (ANU)."
   links:
     - label: "Website"
