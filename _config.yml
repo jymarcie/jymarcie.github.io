@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Marcie (Jae Yeon) Mun
-email:
+email: jaeyeon.mun@anu.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
   Academic website for Marcie (Jae Yeon) Mun, currently a PhD student in Astronomy & Astrophysics at the AUstralian National University
 twitter_username: jymarcie
@@ -71,13 +71,13 @@ author:
       url: "https://github.com/jymarcie"
 
 footer:
-  links:
-    - label: "Twitter/X"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+  # links:
+  #   - label: "Twitter/X"
+  #     icon: "fab fa-fw fa-twitter-square"
+  #     url: "https://twitter.com/"
+  #   - label: "GitHub"
+  #     icon: "fab fa-fw fa-github"
+  #     url: "https://github.com/"
 
 defaults:
   # _posts
