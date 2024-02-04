@@ -16,12 +16,10 @@
 title: Marcie (Jae Yeon) Mun
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+  Academic website for Marcie (Jae Yeon) Mun, currently a PhD student in Astronomy & Astrophysics at the AUstralian National University
+twitter_username: jymarcie
+github_username: jymarcie
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -62,19 +60,19 @@ author:
   avatar : "/assets/images/IMG_1801.jpg"
   bio    : "PhD student at the Research School of Astronomy & Astrophysics at the Australian National University (ANU)."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
+    - label: "Orcid"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0002-3706-9955"
+    - label: "Twitter/X"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/jymarcie"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/jymarcie"
 
 footer:
   links:
-    - label: "Twitter"
+    - label: "Twitter/X"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
