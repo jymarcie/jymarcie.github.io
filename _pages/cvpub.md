@@ -2,6 +2,7 @@
 title: "CV/Publications"
 permalink: /cvpub/
 author_profile: true
+classes: wide
 ---
 
 **Under construction**
