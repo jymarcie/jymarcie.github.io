@@ -1,4 +1,6 @@
 main:
+  - title: "Home"
+    url: /
   - title: "CV/Publications"
     url: /cvpub/
   - title: "Research"
