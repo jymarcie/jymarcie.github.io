@@ -3,7 +3,6 @@ permalink: /
 author_profile: true
 title: Home
 classes: wide
-layout: splash
 ---
 
 <figure style="width: 50%" class="align-right">
