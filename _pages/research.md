@@ -3,6 +3,7 @@ title: "Research"
 permalink: /research/
 author_profile: false
 classes: wide
+layout: splash
 ---
 
 <h2><b> Under construction </b></h2>
