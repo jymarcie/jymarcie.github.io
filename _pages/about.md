@@ -2,6 +2,7 @@
 permalink: /about/
 title: "About"
 classes: wide
+author_profile: false
 layout: splash
 ---
 
