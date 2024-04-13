@@ -3,6 +3,7 @@ permalink: /about/
 title: "About"
 classes: wide
 author_profile: false
+layout: splash
 ---
 
 <figure style="width: 50%" class="align-right">
