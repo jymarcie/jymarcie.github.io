@@ -13,7 +13,7 @@ layout: splash
 </h2>
 <i> Mun et al. (under review in MNRAS) </i> <br />
 
-<figure style="width: 50%" class="align-left">
+<figure style="width: 20%" class="align-left">
   <a href="/assets/images/logo-magpi-white.png">
   <img src="/assets/images/logo-magpi-white.png" alt=""></a>
   <figcaption> <i> Logo copyrights to James Josephides </i> </figcaption>
