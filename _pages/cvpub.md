@@ -12,7 +12,7 @@ I used to publish under name of **Mun, Jae Yeon** during my master's at Seoul Na
 	Quicklinks
 </u> </h3>
 
-[**CV**](/assets/docs/JYMun_CV_Mar20.pdf)
+[**CV**](/assets/docs/JYMun_CV_26Apr2024.pdf)
 
 <a href="https://ui.adsabs.harvard.edu/public-libraries/-HbeVQlwRAShXGAsJbOp5Q"> **ADS Listings** </a>
 
