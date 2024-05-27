@@ -12,7 +12,7 @@ I used to publish under name of **Mun, Jae Yeon** during my master's at Seoul Na
 	Quicklinks
 </u> </h3>
 
-[**CV**](/assets/docs/JYMun_CV_26Apr2024.pdf)
+[**CV**](/assets/docs/JYMun_CV_20May2024.pdf)
 
 <a href="https://ui.adsabs.harvard.edu/public-libraries/-HbeVQlwRAShXGAsJbOp5Q"> **ADS Listings** </a>
 
@@ -24,8 +24,8 @@ I used to publish under name of **Mun, Jae Yeon** during my master's at Seoul Na
 	First-author publications
 </u> </h9>
 
-- **The MAGPI Survey: Evolution of radial trends in star formation activity across cosmic time** <br />
-**Mun, M.**; Wisnioski, E.; Battisti, A.J.; Mendel, J.T.; Ellison, S.L. et al. (2024; accepted for publication in MNRAS) ([arXiv:2404.16319](https://arxiv.org/abs/2404.16319))
+- [**The MAGPI Survey: Evolution of radial trends in star formation activity across cosmic time**](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.5072M/abstract) <br />
+**Mun, M.**; Wisnioski, E.; Battisti, A.J.; Mendel, J.T.; Ellison, S.L. et al. (2024; MNRAS, 530, 5072M) 
 
 - [**Star Formation Activity of Galaxies Undergoing Ram Pressure Stripping in the Virgo Cluster**](https://ui.adsabs.harvard.edu/abs/2021JKAS...54...17M/abstract) <br />
 **Mun, J.Y.**; Hwang, H.S.; Lee, M.G.; Chung, A.; Yoon, H.; Lee, J.C. (2021; JKAS, 54, 17)
@@ -33,6 +33,9 @@ I used to publish under name of **Mun, Jae Yeon** during my master's at Seoul Na
 <h9><u>
 	Co-author publications
 </u> </h9>
+
+- **The MAGPI Survey: the evolution and drivers of gas turbulence in intermediate-redshift galaxies** <br />
+Mai, Y. et al. (**Mun, M.**) (2024; submitted to MNRAS)
 
 - **The spatially resolved relation between dust, gas, and metal abundance with the TYPHOON survey** <br />
 Park, H-J. et al. (**Mun, M.**) (2024; submitted to MNRAS)
