@@ -11,13 +11,13 @@ layout: splash
 </h2>
 [<i> Mun et al. 2024, MNRAS, 530, 5072M </i>](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.5072M/abstract) <br />
 
-<figure style="width: 5%" class="align-left">
+<figure style="width: 10%" class="align-left">
   <a href="/assets/images/logo-magpi-white.png">
   <img src="/assets/images/logo-magpi-white.png" alt=""></a>
   <figcaption> <i> Logo copyrights to James Josephides </i> </figcaption>
 </figure> <br />
 
-**This part of the page is under construction, please refer to a blog post I wrote up [here](https://www.astronomyaustralia.org.au/eso-blog/magpi-magic-iv-forming-stars-in-galaxies-from-the-inside-out/) for a short summary of my work for the time being!**
+**This part of the page is under construction, please refer to a blog post I wrote up [here](https://www.astronomyaustralia.org.au/eso-blog/magpi-magic-iv-forming-stars-in-galaxies-from-the-inside-out/) for a short summary of my work for the time being!** <br />
 
 <h2>
   Impact of ram pressure stripping on galaxies in the Virgo cluster
