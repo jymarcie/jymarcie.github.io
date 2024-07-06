@@ -25,10 +25,10 @@ I used to publish under name of **Mun, Jae Yeon** during my master's at Seoul Na
 </u> </h9>
 
 - [**The MAGPI Survey: evolution of radial trends in star formation activity across cosmic time**](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.5072M/abstract) <br />
-**Mun, M.**; Wisnioski, E.; Battisti, A.J.; Mendel, J.T.; Ellison, S.L. et al. (2024; MNRAS, 530, 5072M) 
+**Mun, M.**, Wisnioski, E., Battisti, A.J., Mendel, J.T., Ellison, S.L. et al. (2024; MNRAS, 530, 5072M) 
 
 - [**Star Formation Activity of Galaxies Undergoing Ram Pressure Stripping in the Virgo Cluster**](https://ui.adsabs.harvard.edu/abs/2021JKAS...54...17M/abstract) <br />
-**Mun, J.Y.**; Hwang, H.S.; Lee, M.G.; Chung, A.; Yoon, H.; Lee, J.C. (2021; JKAS, 54, 17)
+**Mun, J.Y.**, Hwang, H.S., Lee, M.G., Chung, A., Yoon, H., Lee, J.C. (2021; JKAS, 54, 17)
 
 <h9><u>
 	Co-author publications
