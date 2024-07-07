@@ -53,4 +53,4 @@ Bagge, R.S., Foster, C., Battisti, A., Bellstedt, S., <span style="color:#CFA6F5
 Lee, J.H., Lee, M.G., <span style="color:#CFA6F5">**Mun, J.Y.**,</span> Cho, B.S., Kang, J. (2022; ApJ, 940, 24L)
 
 - [**Enhanced Star Formation Activity of Extreme Jellyfish Galaxies in Massive Clusters and the Role of Ram Pressure Stripping**](https://ui.adsabs.harvard.edu/abs/2022ApJ...931L..22L/abstract) <br />
-Lee, J.H., Lee, M.G., <span style="color:#80CBC4">**Mun, J.Y.**,</span> Cho, B.S., Kang, J. (2022; ApJL, 931L, L22)
+Lee, J.H., Lee, M.G., <span style="color:#CFA6F5">**Mun, J.Y.**,</span> Cho, B.S., Kang, J. (2022; ApJL, 931L, L22)
