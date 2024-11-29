@@ -37,7 +37,7 @@ I used to publish under name of **Mun, Jae Yeon** during my master's at Seoul Na
 	Co-author publications
 </u> </h9>
 
-- **The spatially resolved relation between dust, gas, and metal abundance with the TYPHOON survey** <br />
+- [**The spatially resolved relation between dust, gas, and metal abundance with the TYPHOON survey**](https://ui.adsabs.harvard.edu/abs/2024MNRAS.535..729P/abstract) <br />
 Park, H-J., Battisti, A.J., Wisnioski, E., Cortese, L., Seibert, M., -- 6 authors -- <span style="color:#CFA6F5">**Mun, M.**,</span> et al. (2024; MNRAS, 535, 729)
 
 - [**The MAGPI Survey: the evolution and drivers of gas turbulence in intermediate-redshift galaxies**](https://ui.adsabs.harvard.edu/abs/2024MNRAS.533.3878M/abstract) <br />
