@@ -12,7 +12,7 @@ I used to publish under name of **Mun, Jae Yeon** during my master's at Seoul Na
 	Quicklinks
 </u> </h3>
 
-[**CV**](/assets/docs/MMun_CV_28Nov2024_webver.pdf)
+[**CV**](/assets/docs/MMun_CV_12Mar2025.pdf)
 
 <a href="https://ui.adsabs.harvard.edu/public-libraries/-HbeVQlwRAShXGAsJbOp5Q"> **ADS Library** </a>
 
@@ -25,10 +25,10 @@ I used to publish under name of **Mun, Jae Yeon** during my master's at Seoul Na
 </u> </h9>
 
 - [**The MAGPI Survey: radial trends in star formation across different cosmological simulations in comparison with observations at z ~ 0.3**](https://ui.adsabs.harvard.edu/abs/2024arXiv241117882M/abstract) <br />
-<span style="color:#CFA6F5">**Mun, M.**,</span> Wisnioski, E., Harborne, K.E., Lagos, C.D.P., Valenzuela, L.M. et al. (2024; submitted to MNRAS, arXiv:2411.17882)
+<span style="color:#CFA6F5">**Mun, M.**,</span> Wisnioski, E., Harborne, K.E., Lagos, C.D.P., Valenzuela, L.M. et al. (2025; MNRAS, 538, 976)
 
 - [**The MAGPI Survey: evolution of radial trends in star formation activity across cosmic time**](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.5072M/abstract) <br />
-<span style="color:#CFA6F5">**Mun, M.**,</span> Wisnioski, E., Battisti, A.J., Mendel, J.T., Ellison, S.L. et al. (2024; MNRAS, 530, 5072M) 
+<span style="color:#CFA6F5">**Mun, M.**,</span> Wisnioski, E., Battisti, A.J., Mendel, J.T., Ellison, S.L. et al. (2024; MNRAS, 530, 5072) 
 
 - [**Star Formation Activity of Galaxies Undergoing Ram Pressure Stripping in the Virgo Cluster**](https://ui.adsabs.harvard.edu/abs/2021JKAS...54...17M/abstract) <br />
 <span style="color:#CFA6F5">**Mun, J.Y.**,</span> Hwang, H.S., Lee, M.G., Chung, A., Yoon, H., Lee, J.C. (2021; JKAS, 54, 17)
