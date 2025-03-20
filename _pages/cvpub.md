@@ -24,7 +24,7 @@ I used to publish under name of **Mun, Jae Yeon** during my master's at Seoul Na
 	First-author publications
 </u> </h9>
 
-- [**The MAGPI Survey: radial trends in star formation across different cosmological simulations in comparison with observations at z ~ 0.3**](https://ui.adsabs.harvard.edu/abs/2024arXiv241117882M/abstract) <br />
+- [**The MAGPI Survey: radial trends in star formation across different cosmological simulations in comparison with observations at z ~ 0.3**](https://ui.adsabs.harvard.edu/abs/2025MNRAS.538..976M/abstract) <br />
 <span style="color:#CFA6F5">**Mun, M.**,</span> Wisnioski, E., Harborne, K.E., Lagos, C.D.P., Valenzuela, L.M. et al. (2025; MNRAS, 538, 976)
 
 - [**The MAGPI Survey: evolution of radial trends in star formation activity across cosmic time**](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.5072M/abstract) <br />
