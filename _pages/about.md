@@ -18,4 +18,4 @@ layout: splash
 
 I obtained my master's degree in astronomy at Seoul National University (SNU), where I had the privilege of working with <span style="color:#80CBC4"> **Prof. Myung Gyoon Lee** </span> and [**A/Prof. Ho Seong Hwang**](https://hwanghs.github.io/). Previously, I was at the University of California, Los Angeles (UCLA) for my bachelor's degree in astrophysics. 
 
-Aside from spending my day-to-day in astronomy, you can find me running and lifting weights at the gym, figuring out how to solve problems at the bouldering gym, or admiring nature by going on hikes. I am also always keen on finding new cafes that serve delicious coffee - I am currently (arguably) in one of the best countries to do so :) 
+Aside from spending my day-to-day in astronomy, you can find me running and lifting weights at the gym, figuring out how to solve problems at the bouldering gym, or admiring nature by going on hikes. I am also always keen on finding new cafes that serve delicious coffee. Now that I'm based in Paris, I'm trying my best to visit as many museums and exhibits during my postdoc :) 
