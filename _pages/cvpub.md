@@ -37,7 +37,7 @@ I used to publish under name of **Mun, Jae Yeon** during my master's at Seoul Na
 	Co-author publications
 </u> </h9>
 
-- [**A GLIMPSE of the 99%: a census of the faintest galaxies during the epoch of reionization and its implications for galaxy formation models**]{https://ui.adsabs.harvard.edu/abs/2026arXiv260423823A/abstract} <br />
+- [**A GLIMPSE of the 99%: a census of the faintest galaxies during the epoch of reionization and its implications for galaxy formation models**](https://ui.adsabs.harvard.edu/abs/2026arXiv260423823A/abstract) <br />
 Atek, H., Chemerynska, I., Furtak, L.J., Richard, J., Chisholm, J., -- <span style="color:#CFA6F5">**Mun, M.**,</span> et al. (2026; submitted to OJAp, arXiv: 2604.23823)
 
 - [**The MAGPI Survey: forward modelled gas-phase metallicity gradients in galaxies at z ~ 0.3**](https://ui.adsabs.harvard.edu/abs/2026MNRAS.545f2182M/abstract) <br />
