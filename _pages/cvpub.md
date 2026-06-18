@@ -37,7 +37,7 @@ I used to publish under name of **Mun, Jae Yeon** during my master's at Seoul Na
 	Co-author publications
 </u> </h9>
 
--[**A Glimpse of the Low-Mass End of the Direct Mass-Metallicity Relation at z ~ 6 - 8**](https://ui.adsabs.harvard.edu/abs/2026arXiv260506770H/abstract) <br />
+- [**A Glimpse of the Low-Mass End of the Direct Mass-Metallicity Relation at z ~ 6 - 8**](https://ui.adsabs.harvard.edu/abs/2026arXiv260506770H/abstract) <br />
 Hsiao, T.Y., Chisholm, J., Berg, D.A., Finkelstein, S.L., Kokorev, V., -- <span style="color:#CFA6F5">**Mun, M.**,</span> et al. (2026; submitted to ApJ, arXiv: 2605.06770)
 
 - [**A GLIMPSE of the 99%: a census of the faintest galaxies during the epoch of reionization and its implications for galaxy formation models**](https://ui.adsabs.harvard.edu/abs/2026arXiv260423823A/abstract) <br />
