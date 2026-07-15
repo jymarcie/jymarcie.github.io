@@ -12,7 +12,7 @@ I used to publish under name of **Mun, Jae Yeon** during my master's at Seoul Na
 	Quicklinks
 </u> </h3>
 
-[**CV**](/assets/MMun_CV_29Jun2026.pdf)
+[**CV**](/assets/MMun_CV_15Jul2026.pdf)
 
 <a href="https://ui.adsabs.harvard.edu/public-libraries/-HbeVQlwRAShXGAsJbOp5Q"> **ADS Library** </a>
 
@@ -37,17 +37,23 @@ I used to publish under name of **Mun, Jae Yeon** during my master's at Seoul Na
 	Co-author publications
 </u> </h9>
 
+- [**The MAGPI Survey: Stellar populations radial trends and mass assembly in star-forming galaxies at z ~ 0.3**](https://ui.adsabs.harvard.edu/abs/2026arXiv260712929M/abstract) <br />
+Mauro, F., Ziegler, B., Breda, I., Papaderos, P., Sharma, G., -- <span style="color:#CFA6F5">**Mun, M.**,</span> et al. (2026; accepted for publication in A&A, arXiv:2607.12929)
+
+- [**The MAGPI Survey: Evidence for Non-Universal Resolved Dust Attenuation Relations Beyond the Local Universe**](https://ui.adsabs.harvard.edu/abs/2026arXiv260707122M/abstract) <br />
+Mailvaganam, A., Zafar, T., Corcho-Caballero, P., Salim, S., Koyama, Y., -- <span style="color:#CFA6F5">**Mun, M.**,</span> et al. (2026; submitted to PASA, arXiv: 2607.07122)
+
 - [**A Glimpse of the Low-Mass End of the Direct Mass-Metallicity Relation at z ~ 6 - 8**](https://ui.adsabs.harvard.edu/abs/2026arXiv260506770H/abstract) <br />
-Hsiao, T.Y., Chisholm, J., Berg, D.A., Finkelstein, S.L., Kokorev, V., -- <span style="color:#CFA6F5">**Mun, M.**,</span> et al. (2026; submitted to ApJ, arXiv: 2605.06770)
+Hsiao, T.Y., Chisholm, J., Berg, D.A., Finkelstein, S.L., Kokorev, V., -- <span style="color:#CFA6F5">**Mun, M.**,</span> et al. (2026; submitted to ApJ, arXiv:2605.06770)
 
 - [**A GLIMPSE of the 99%: a census of the faintest galaxies during the epoch of reionization and its implications for galaxy formation models**](https://ui.adsabs.harvard.edu/abs/2026arXiv260423823A/abstract) <br />
-Atek, H., Chemerynska, I., Furtak, L.J., Richard, J., Chisholm, J., -- <span style="color:#CFA6F5">**Mun, M.**,</span> et al. (2026; submitted to OJAp, arXiv: 2604.23823)
+Atek, H., Chemerynska, I., Furtak, L.J., Richard, J., Chisholm, J., -- <span style="color:#CFA6F5">**Mun, M.**,</span> et al. (2026; submitted to OJAp, arXiv:2604.23823)
 
 - [**The MAGPI Survey: forward modelled gas-phase metallicity gradients in galaxies at z ~ 0.3**](https://ui.adsabs.harvard.edu/abs/2026MNRAS.545f2182M/abstract) <br />
 Mai, Y., Croom, S.M., Wisnioski, E., Battisti, A.J., Mendel, J.T., <span style="color:#CFA6F5">**Mun, M.**,</span> et al. (2025; MNRAS, 545, 1)
 
 - [**VENUS: A Strongly Lensed Clumpy Galaxy at z ~ 11 - 12 behind the Galaxy Cluster MACS J0257.1-2325**](https://ui.adsabs.harvard.edu/abs/2025arXiv251114483N/abstract) <br />
-Nakane, M., Kokorev, V., Fujimoto, S., Ouchi, M., McLeod, D.J., -- <span style="color:#CFA6F5">**Mun, M.**,</span> et al. (2025; submitted to ApJ, arXiv: 2511.14483)
+Nakane, M., Kokorev, V., Fujimoto, S., Ouchi, M., McLeod, D.J., -- <span style="color:#CFA6F5">**Mun, M.**,</span> et al. (2025; submitted to ApJ, arXiv:2511.14483)
 
 - [**The spatially resolved relation between dust, gas, and metal abundance with the TYPHOON survey**](https://ui.adsabs.harvard.edu/abs/2024MNRAS.535..729P/abstract) <br />
 Park, H-J., Battisti, A.J., Wisnioski, E., Cortese, L., Seibert, M., -- 6 authors -- <span style="color:#CFA6F5">**Mun, M.**,</span> et al. (2024; MNRAS, 535, 729)
