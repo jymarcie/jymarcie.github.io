@@ -37,6 +37,9 @@ I used to publish under name of **Mun, Jae Yeon** during my master's at Seoul Na
 	Co-author publications
 </u> </h9>
 
+- [**The MAGPI survey: emission-line products data release and the role of spectroscopic aperture covering fraction on the Balmer decrement-stellar mass relation**](https://scixplorer.org/abs/2026MNRAS.552g1585B/abstract) <br />
+Battisti, A.J., Muller, E.G.M., Wisnioski, E., Mendel, J.T., Foster, C., -- <span style="color:#CFA6F5">**Mun, M.**,</span> et al. (2026; MNRAS, 552, 1)
+
 - [**VENUS: A Strongly Lensed Clumpy Galaxy at z ~ 11 - 12 behind the Galaxy Cluster MACS J0257.1-2325**](https://scixplorer.org/abs/2026ApJ..1010..237N/abstract) <br />
 Nakane, M., Kokorev, V., Fujimoto, S., Ouchi, M., McLeod, D.J., -- <span style="color:#CFA6F5">**Mun, M.**,</span> et al. (2026; ApJ, 1010, 237)
 
